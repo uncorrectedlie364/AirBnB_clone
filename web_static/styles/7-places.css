@@ -1,0 +1,37 @@
+/* styles for the Places section */
+
+.container {
+    /* Adjust the container styles to match the task requirements */
+    /* margins and width constraints */
+    max-width: 1000px;
+    margin: 30px auto;
+}
+
+.places {
+    /* Styles for the Places section */
+    /* padding, margins, and font settings */
+}
+
+.places h1 {
+    /* Styles for the Places title */
+    /* Adjust font size and alignment */
+    font-size: 30px;
+    text-align: left;
+}
+
+.article {
+    /* Styles for each individual place listing */
+    /* Add necessary padding, margins, border, and radius */
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+}
+
+.article h2 {
+    /* Styles for the place name */
+    /* Adjust font size and alignment */
+    font-size: 30px;
+    text-align: center;
+}
